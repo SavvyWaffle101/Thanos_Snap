@@ -2,3 +2,5 @@
 This simple shell code can delete half of your files in a.... SNAP!
 
 Ps: Well, not exactly in a snap... Your Computer's Efficiency is also should be taken into consideration. 😅
+
+# Perfectly Balanced as all things should be!
